@@ -1,0 +1,18 @@
+# Ignorar archivos específicos de sistemas operativos
+
+# macOS
+.DS_Store
+.Trashes
+
+
+# VS Code
+.vscode/
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
