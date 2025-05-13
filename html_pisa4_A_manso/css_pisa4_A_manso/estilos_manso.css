@@ -1,0 +1,20 @@
+body {
+    background-color: #F4F1DE;
+    color: #3D405B;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #81B29A;
+}
+h1, h2, h3 {
+    color: #3D405B;
+}
+a {
+    color: #E07A5F;
+}
+a:hover {
+    color: #F2CC8F;
+}
+footer {
+    background-color: #3D405B;
+}
