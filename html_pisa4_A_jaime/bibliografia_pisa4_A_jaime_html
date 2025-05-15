@@ -33,8 +33,40 @@
 
     <!-- Main Content -->
     <main class="container my-5">
-        <h2>Bibliografía Jaime</h2>
-        <p>Este es el contenido principal de la página web.</p>
+        <h1>Bibliografía Jaime</h1>
+        <ul>
+            <li>
+              European Commission. <em>Green Deal: A European Green Deal</em>. Disponible en: 
+              <a href="https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en" target="_blank">
+                https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en
+              </a>
+            </li>
+            <li>
+              Global e-Sustainability Initiative (GeSI). <em>SMARTer2030 Report</em>. Disponible en: 
+              <a href="https://gesi.org/research" target="_blank">
+                https://gesi.org/research
+              </a>
+            </li>
+            <li>
+              United Nations. <em>Sustainable Development Goals</em>. Disponible en:
+              <a href="https://sdgs.un.org/goals" target="_blank">
+                https://sdgs.un.org/goals
+              </a>
+            </li>
+            <li>
+              Greenpeace. <em>Guide to Greener Electronics</em>. Disponible en: 
+              <a href="https://www.greenpeace.org/usa/reports/greener-electronics-2017/" target="_blank">
+                https://www.greenpeace.org/usa/reports/greener-electronics-2017/
+              </a>
+            </li>
+            <li>
+              Ellen MacArthur Foundation. <em>Circular Economy in Technology</em>. Disponible en:
+              <a href="https://ellenmacarthurfoundation.org/" target="_blank">
+                https://ellenmacarthurfoundation.org/
+              </a>
+            </li>
+          </ul>
+
     </main>
 
     <!-- Footer -->
