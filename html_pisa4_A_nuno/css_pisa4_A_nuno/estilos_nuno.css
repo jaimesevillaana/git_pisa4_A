@@ -1,0 +1,61 @@
+/* Paleta de colores (Coolors: https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51) */
+:root {
+    --primary: #264653;
+    --secondary: #2A9D8F;
+    --accent: #E9C46A;
+    --highlight: #F4A261;
+    --alert: #E76F51;
+}
+
+/* Estilos generales */
+body {
+    background-color: #f8f9fa;
+    color: var(--primary);
+    font-family: 'Arial', sans-serif;
+}
+
+/* Encabezado */
+header {
+    background-color: var(--primary) !important;
+}
+
+/* Navegación */
+.navbar {
+    background-color: var(--secondary) !important;
+}
+.navbar-nav .nav-link {
+    color: #fff !important;
+    font-weight: 500;
+}
+.navbar-nav .nav-link:hover {
+    color: var(--accent) !important;
+}
+.navbar-nav .nav-link.active {
+    color: var(--highlight) !important;
+}
+
+/* Contenido principal */
+main {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 2rem;
+}
+
+/* Encabezados */
+h2, h3 {
+    color: var(--primary);
+}
+
+/* Enlaces */
+a {
+    color: var(--highlight);
+}
+a:hover {
+    color: var(--alert);
+}
+
+/* Pie de página */
+footer {
+    background-color: var(--primary) !important;
+}
