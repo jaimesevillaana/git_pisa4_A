@@ -1,0 +1,60 @@
+body {
+    background-color: #f8f9fa;
+    color: #3D405B;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #007bff; /* Replaces #81B29A for consistency with Bootstrap primary */
+}
+h1, h2, h3 {
+    color: #3D405B;
+}
+a {
+    color: #E07A5F;
+}
+a:hover {
+    color: #F2CC8F;
+}
+footer {
+    background-color: #343a40; /* Replaces #3D405B for consistency with dark footer */
+    color: white;
+    padding: 20px 0;
+}
+.header-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background-color: #007bff;
+    color: white;
+    border-radius: 15px 15px 0 0;
+}
+.nav-link {
+    transition: color 0.3s;
+}
+.nav-link:hover {
+    color: #007bff !important;
+}
+.list-group-item {
+    border: none;
+    padding: 10px 20px;
+}
+.list-group-item a {
+    text-decoration: none;
+    color: #343a40;
+    font-weight: 500;
+}
+.list-group-item a:hover {
+    color: #007bff;
+}
+main p {
+    text-align: justify;
+}
